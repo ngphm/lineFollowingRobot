@@ -1,5 +1,5 @@
 # Line Following Robot
-![LineFollowingGIF.gif](https://github.com/ngphm03/lneFollow/blob/main/LineFollowingGIF.gif)
+![LineFollowingGIF.gif](LineFollowingGIF.gif)
 
 <!-- TABLE OF CONTENTS -->
 <details>
